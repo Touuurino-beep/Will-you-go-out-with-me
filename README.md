@@ -3,7 +3,7 @@ Just a fun website asking you whether you would like to marry me or not.
 
 Try it out!! [Click here](https://sujinphilip.github.io/willYouMarryme/)
 
-So will you marry me? Yes 🥹 or No 😏 
+Will you go out with me ? Yes 🥹 or No 😏 
 [![repository-open-graph-template.jpg](https://i.postimg.cc/X74JVs3G/repository-open-graph-template.jpg)](https://postimg.cc/HjvHz4rd)
 
 Try saying 'no' 😏 

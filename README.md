@@ -1,4 +1,4 @@
-# willYouMarryme
+# Will you go out with me
 Just a fun website asking you whether you would like to marry me or not.
 
 Try it out!! [Click here](https://sujinphilip.github.io/willYouMarryme/)
